@@ -1,0 +1,8 @@
+name: Thirdproject
+version: '${project.version}'
+main: com.hiremedev.thirdproject.Thirdproject
+api-version: 1.17
+
+commands:
+  spawn:
+    description: spawns in the test entity
